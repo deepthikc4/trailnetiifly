@@ -1,0 +1,35 @@
+.employeeform{
+    border: 1px solid blue;
+    background-color: beige;
+    margin: 50px;  
+    padding: 20px;
+  
+   
+  
+}
+.form-row {
+    display: flex;
+    align-items:center;
+    padding: 20px;
+}
+
+#fieldsinput{
+
+
+    flex: 1;
+    width: 500px;
+    background-color: white;
+
+
+}
+.employeelabel{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px; 
+    text-align: right;
+    margin-right: 100px; 
+    color:blue;
+  
+}
+   
